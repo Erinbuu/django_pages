@@ -1,1 +1,1 @@
-web: gunicorn django_pages.wsgis
+web:gunicorn django_pages.wsgi
